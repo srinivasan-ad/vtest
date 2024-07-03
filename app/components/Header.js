@@ -59,15 +59,33 @@ function Header() {
       </nav>
       <div className="max-w-[1490px] mx-auto ">
         <nav className="flex space-x-5 text-sm leading-5">
-          <p className="border-b-2 border-black px-0.5 py-3.5 text-gray-400">Overview</p>
-          <p className="border-b-2 border-transparent border-black px-0.5 py-3.5 text-gray-400  text-center  rounded-md transition-transform ease-in-out duration-150">Integrations</p>
-          <p className="border-b-2 border-transparent border-black px-0.5 py-3.5  text-gray-400  transition-transform  ease-in-out text-center  rounded-md  duration-150">Activity</p>
-          <p className="border-b-2 border-transparent border-black px-0.5 py-3.5 text-gray-400  transition ease-in-out text-center  rounded-md duration-150">Domains</p>
-          <p className="border-b-2 border-transparent border-black px-0.5 py-3.5 text-gray-400  transition ease-in-out text-center  rounded-md duration-150">Usage</p>
-          <p className="border-b-2 border-transparent border-black px-0.5 py-3.5 text-gray-400  transition ease-in-out text-center  rounded-md duration-150">Monitoring</p>
-          <p className="border-b-2 border-transparent border-black px-0.5 py-3.5 text-gray-400  transition ease-in-out text-center  rounded-md duration-150">Storage</p>
-          <p className="border-b-2 border-transparent border-black px-0.5 py-3.5 text-gray-400  transition ease-in-out text-center  rounded-md duration-150">AI</p>
-          <p className="border-b-2 border-transparent border-black px-0.5 py-3.5 text-gray-400  transition ease-in-out text-center  rounded-md duration-150">Settings</p>
+          <p className="border-b-2 border-black px-0.5 py-3.5 text-gray-400">
+            Overview
+          </p>
+          <p className="border-b-2 border-transparent border-black px-0.5 py-3.5 text-gray-400  text-center  rounded-md transition-transform ease-in-out duration-150">
+            Integrations
+          </p>
+          <p className="border-b-2 border-transparent border-black px-0.5 py-3.5  text-gray-400  transition-transform  ease-in-out text-center  rounded-md  duration-150">
+            Activity
+          </p>
+          <p className="border-b-2 border-transparent border-black px-0.5 py-3.5 text-gray-400  transition ease-in-out text-center  rounded-md duration-150">
+            Domains
+          </p>
+          <p className="border-b-2 border-transparent border-black px-0.5 py-3.5 text-gray-400  transition ease-in-out text-center  rounded-md duration-150">
+            Usage
+          </p>
+          <p className="border-b-2 border-transparent border-black px-0.5 py-3.5 text-gray-400  transition ease-in-out text-center  rounded-md duration-150">
+            Monitoring
+          </p>
+          <p className="border-b-2 border-transparent border-black px-0.5 py-3.5 text-gray-400  transition ease-in-out text-center  rounded-md duration-150">
+            Storage
+          </p>
+          <p className="border-b-2 border-transparent border-black px-0.5 py-3.5 text-gray-400  transition ease-in-out text-center  rounded-md duration-150">
+            AI
+          </p>
+          <p className="border-b-2 border-transparent border-black px-0.5 py-3.5 text-gray-400  transition ease-in-out text-center  rounded-md duration-150">
+            Settings
+          </p>
         </nav>
       </div>
     </header>
