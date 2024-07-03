@@ -34,7 +34,7 @@ function Header() {
         </div>
         <div className="flex items-center max-w-[600px] ">
           <span>
-            <button className=" border border-gray-300 py-1 px-3 text-[13.6px] font-light rounded-md">
+            <button className=" border border-gray-300 py-1 px-3 text-[13.6px] font-light rounded-md hover:font-normal hover:bg-gray-100">
               Feedback
             </button>
           </span>
