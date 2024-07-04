@@ -9,8 +9,8 @@ import {
 } from "react-icons/hi";
 function Header() {
   return (
-    <header>
-      <nav className="max-w-[1490px] mx-auto pt-5 flex flex-row justify-between items-center">
+    <header className="border-b-2 ">
+      <nav className="max-w-[1490px] mx-auto pt-2 flex flex-row justify-between items-center">
         <div className="flex ">
           <p className=" font-black text-2xl ">A</p>
           <span className=" inline-flex items-center">
